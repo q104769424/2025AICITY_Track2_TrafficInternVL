@@ -1,0 +1,10 @@
+old/
+paper/
+InternVL/
+evaluation/
+camera_parameters/
+*.json
+**/__pycache__/
+**/.ipynb_checkpoints/
+gaze_strategies.jpg
+parameter.xlsx
